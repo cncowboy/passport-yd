@@ -1,14 +1,13 @@
 {
-  "name": "passport-weixin",
-  "version": "0.2.0",
-  "description": "passport oauth2 strategy for weixin",
+  "name": "passport-yd",
+  "version": "0.0.1",
+  "description": "passport oauth2 strategy for yuedong",
   "main": "./lib",
   "scripts": {
     "start": "node test/bootstrap"
   },
   "keywords": [
     "passport",
-    "weixin",
     "oauth2",
     "strategy"
   ],
@@ -29,5 +28,5 @@
   "bugs": {
     "url": "https://github.com/Treri/passport-weixin/issues"
   },
-  "homepage": "https://github.com/Treri/passport-weixin"
+  "homepage": "https://github.com/Treri/passport-yd"
 }
